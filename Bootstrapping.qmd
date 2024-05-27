@@ -1,0 +1,36 @@
+---
+title: "Bootstrapping"
+subtitle: "Entendiéndolo con Anita"
+format: revealjs
+editor: visual
+lang: es
+---
+
+## ¿Qué es el bootstrapping?
+
+"to [pull oneself up by one's bootstraps](https://en.wiktionary.org/wiki/pull_oneself_up_by_one%27s_bootstraps "wikt:pull oneself up by one's bootstraps")" cuya versión en español es según Wikipedia "como Juan Palomo"...
+
+![Munchausen](images/munchausen.png){width="300"}
+
+## El barón de Munchausen
+
+> In 1951, the British physician [Richard Asher](https://en.wikipedia.org/wiki/Richard_Asher "Richard Asher") published an article in [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet "The Lancet") describing patients whose [factitious disorders](https://en.wikipedia.org/wiki/Factitious_disorder "Factitious disorder") led them to lie about their own states of health. Asher proposed to call the disorder "Munchausen's syndrome", commenting: "Like the famous Baron von Munchausen, the persons affected have always travelled widely; and their stories, like those attributed to him, are both dramatic and untruthful. Accordingly, the syndrome is respectfully dedicated to the baron, and named after him".^[\[19\]](https://en.wikipedia.org/wiki/Baron_Munchausen#cite_note-FOOTNOTEOlry200254-20)^ The disease is now usually referred to as [Munchausen syndrome](https://en.wikipedia.org/wiki/Munchausen_syndrome "Munchausen syndrome").
+
+------------------------------------------------------------------------
+
+## Dr. House - Deception (T2:E9)
+
+![](images/drhouse.png){width="250"}
+
+## Robert Heinlein
+
+::: {#fig-heinlein layout-ncol="3"}
+![By his bootstraps (1941)](images/bootstraps.png){width=300}
+
+!['-All you zombies-' (1959)](images/zombies.png){width=300}
+
+![Predestination (2014)](images/predestination.png){width=300}
+:::
+
+## Ejemplo numérico
+ver https://modelsummary.com/articles/modelsummary.html#bootstrap
